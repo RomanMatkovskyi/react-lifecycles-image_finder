@@ -1,5 +1,4 @@
 import { Component } from 'react';
-import { Link } from 'react-scroll';
 import axios from 'axios';
 
 class Button extends Component {
